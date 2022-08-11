@@ -1,0 +1,23 @@
+{
+  "name": "web3rsvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "node scripts/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saira512dev/Dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saira512dev/Dapp/issues"
+  },
+  "homepage": "https://github.com/saira512dev/Dapp#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1"
+  }
+}
